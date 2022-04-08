@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-hooks-useeffect/static/css/main.4fc567ba.css",
+    "main.js": "/react-hooks-useeffect/static/js/main.df768ed0.js",
+    "index.html": "/react-hooks-useeffect/index.html",
+    "main.4fc567ba.css.map": "/react-hooks-useeffect/static/css/main.4fc567ba.css.map",
+    "main.df768ed0.js.map": "/react-hooks-useeffect/static/js/main.df768ed0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4fc567ba.css",
+    "static/js/main.df768ed0.js"
+  ]
+}
